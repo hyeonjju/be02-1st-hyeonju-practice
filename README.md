@@ -3,7 +3,7 @@
 * 이름 : 홍현주
 
 * 사진
-<img src = ".\photo\kakao.png">
+<img src = ".\photo\kakao.png" width="200" height="200">
 
 * 블로그 링크  
 [내 블로그](https://velog.io/@h_hyeonju)
